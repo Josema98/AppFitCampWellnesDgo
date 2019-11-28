@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player/ngx';
+
 
 @Component({
   selector: 'app-rutinas',
@@ -8,7 +8,7 @@ import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player/ngx';
 })
 export class RutinasPage implements OnInit {
 
-  // constructor(private youtube: YoutubeVideoPlayer) { }
+  // constructor() { }
 
   ngOnInit() {
   }
